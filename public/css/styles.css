@@ -21,3 +21,10 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.switch {
+  color: #000;
+}
+.switch:hover {
+  color: #000;
+}
